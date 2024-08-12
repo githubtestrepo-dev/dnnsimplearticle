@@ -1,7 +1,7 @@
 <dotnetnuke type="Package" version="5.0">
   <packages>
-    <package name="dnnsimplearticle" type="Module" version="00.02.09">
-      <friendlyName>dnnsimplearticle</friendlyName>
+    <package name="dnnsimplearticle" type="Module" version="00.02.10">
+      <friendlyName>dnnsimplearticle-new</friendlyName>
       <description>An open source articles module for DotNetNuke, from Christoc.com</description>
       <iconFile>desktopmodules/dnnsimplearticle/i/SimpleArticleLogo.jpg</iconFile>
       <owner>
